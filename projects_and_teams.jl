@@ -383,7 +383,9 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://www.youtube.com/watch?v=TK3DF6OHO4k&t",
+			"https://github.com/MaticMarko/PacmanProjekatLPRS2",
+			"https://github.com/MaticMarko/PacmanProjekatLPRS2/blob/master/pacman_doc.docx"
 		),
 		false
 	),
